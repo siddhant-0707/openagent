@@ -1,5 +1,0 @@
-{{#user}}
-My name is Siddhant.
-Here are my skills : ML, MLOps, Web Development, JS, HTML . 
-My email id is chauhanjoy10@gmail.com.
- {{/user}}
